@@ -20,6 +20,6 @@ All examples and templates are generic. Russian compensation guidance describes 
 4. The public manifest lists every release file and its SHA-256. It is an integrity inventory, not a proof of anonymity.
 5. The initial Git commit is created independently of the source repository with neutral author metadata. Only the reviewed package is pushed.
 
-The intentionally public exceptions are the upstream author's attribution, links to public projects, the publishing repository's account in its URL, and release metadata. The hosting account remains visible on GitHub.
+The intentionally public exceptions are the upstream author's attribution, links to public projects, the publishing repository's account in its URL, release metadata, and named public tools or research sources used as examples. The MCP section describes generic integration purposes and links to official documentation; it does not include private meetings, designs, documents, account configuration or credentials. The hosting account remains visible on GitHub.
 
 No finite scan establishes protection against every possible indirect inference. Checks apply to the reviewed release; run them and review context again before adding or publishing files. Do not submit personal CVs, transcripts, compensation terms, credentials or employer material in issues or pull requests.
