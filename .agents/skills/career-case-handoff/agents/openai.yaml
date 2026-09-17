@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Case Handoff"
+  short_description: "Save and resume a verified career case"
+  default_prompt: "Use $career-case-handoff to capture this career case for continuation in a new chat."

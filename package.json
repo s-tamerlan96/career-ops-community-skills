@@ -1,0 +1,13 @@
+{
+  "name": "career-ops-community-skills",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Candidate-neutral community skills and rules for career-ops",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node scripts/check-package.mjs && node --test tests/*.test.mjs",
+    "check": "node scripts/check-package.mjs"
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Feedback Loop"
+  short_description: "Review interviews and improve future practice"
+  default_prompt: "Use $interview-feedback-loop to review this interview and extract reusable questions."

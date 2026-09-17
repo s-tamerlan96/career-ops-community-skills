@@ -1,0 +1,6 @@
+interface:
+  display_name: "Compensation Research Flow"
+  short_description: "Research salary ranges and bonus mechanics"
+  default_prompt: "Use $compensation-research-flow to research this compensation package and prepare an evidence-bound negotiation range."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Growth Loop"
+  short_description: "Track onboarding, impact, reviews, and growth"
+  default_prompt: "Use $career-growth-loop to build an evidence-based onboarding and career-growth checkpoint."

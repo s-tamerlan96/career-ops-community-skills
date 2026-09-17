@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tailor CV"
+  short_description: "Adapt a resume to a specific vacancy"
+  default_prompt: "Use $tailor-cv to adapt my resume to this vacancy."

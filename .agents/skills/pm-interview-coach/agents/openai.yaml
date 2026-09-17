@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM Interview Coach"
+  short_description: "Practice product management interviews"
+  default_prompt: "Use $pm-interview-coach to run an evidence-based product management interview practice session."

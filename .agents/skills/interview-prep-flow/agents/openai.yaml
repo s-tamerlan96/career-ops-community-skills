@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Prep Flow"
+  short_description: "Prepare interview packs from a vacancy"
+  default_prompt: "Use $interview-prep-flow to prepare me for this interview using my confirmed experience."

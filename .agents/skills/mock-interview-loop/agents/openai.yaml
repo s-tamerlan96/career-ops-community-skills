@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mock Interview Loop"
+  short_description: "Run structured mock interviews and save best answers"
+  default_prompt: "Use $mock-interview-loop to run a structured mock interview and build my interview cheatsheet."
